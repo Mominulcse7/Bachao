@@ -11,4 +11,9 @@
     <string name="zd8api2adi">ZD8API2ADI</string>
     <string name="mr_a">Mr A</string>
     <string name="help_line">Help Line</string>
+    <string name="submit">Submit</string>
+    <string name="report_a_rape">Report a Rape</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
 </resources>

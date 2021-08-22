@@ -27,29 +27,4 @@
         <item name="android:background">@color/white</item>
     </style>
 
-    <style name="linear_main_match_match_vertical_padding_bottom190">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">match_parent</item>
-        <item name="android:orientation">vertical</item>
-        <item name="android:fitsSystemWindows">true</item>
-        <item name="android:background">@color/white</item>
-        <item name="android:paddingBottom">190dp</item>
-    </style>
-
-    <style name="linear_match_wrap_vertical">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:orientation">vertical</item>
-        <item name="android:fitsSystemWindows">true</item>
-    </style>
-
-    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
-        <item name="android:textSize">16sp</item>
-        <item name="android:textColor">@color/black</item>
-    </style>
-
-    <style name="App.ToolbarStyle" parent="ThemeOverlay.MaterialComponents.Toolbar.Primary">
-        <item name="colorOnPrimary">@color/white</item>
-    </style>
-
 </resources>
