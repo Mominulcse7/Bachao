@@ -17,16 +17,18 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="10dp"
-        android:backgroundTint="#E4E1E1"
-        app:cardCornerRadius="3dp"
+        android:backgroundTint="@color/colorAccent"
+        app:cardCornerRadius="5dp"
         app:cardElevation="7dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:padding="10dp"
-            android:text="Incoming Call Activity" />
+            android:padding="15dp"
+            android:text="Incoming Call Activity"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
 
     </androidx.cardview.widget.CardView>
 
@@ -38,16 +40,18 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="10dp"
-        android:backgroundTint="#E4E1E1"
-        app:cardCornerRadius="3dp"
+        android:backgroundTint="@color/colorAccent"
+        app:cardCornerRadius="5dp"
         app:cardElevation="7dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:padding="10dp"
-            android:text="Calling Activity" />
+            android:padding="15dp"
+            android:text="Calling Activity"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
 
     </androidx.cardview.widget.CardView>
 
@@ -59,16 +63,18 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="10dp"
-        android:backgroundTint="#E4E1E1"
-        app:cardCornerRadius="3dp"
+        android:backgroundTint="@color/colorAccent"
+        app:cardCornerRadius="5dp"
         app:cardElevation="7dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:padding="10dp"
-            android:text="Map Activity" />
+            android:padding="15dp"
+            android:text="Map Activity"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
 
     </androidx.cardview.widget.CardView>
 
