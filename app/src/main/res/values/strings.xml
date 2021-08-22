@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bachao</string>
+    <string name="bachao">Bachao</string>
+    <string name="calls_are_recorded">Calls are recorded</string>
+    <string name="hold_on">Hold On</string>
+    <string name="speakerphone">Speakerphone</string>
+    <string name="mute">Mute</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="moved_on">Moved On</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="zd8api2adi">ZD8API2ADI</string>
+    <string name="mr_a">Mr A</string>
+    <string name="help_line">Help Line</string>
+</resources>
