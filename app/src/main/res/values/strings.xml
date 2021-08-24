@@ -16,4 +16,15 @@
     <string name="name">Name</string>
     <string name="description">Description</string>
     <string name="location">Location</string>
+    <string name="tell_your_story">Tell Your Story</string>
+
+    <string name="network_unavailable">Network connection is not available</string>
+    <string name="location_unavailable">Location service is not enabled</string>
+    <string name="network_location_unavailable">Network connection or location service is not enabled</string>
+    <string name="learn">Learn</string>
+    <string name="help_1331">Help 1331</string>
+    <string name="rape_alert">Rape Alert</string>
+    <string name="mark_as_safe">Mark As Safe</string>
+
+
 </resources>

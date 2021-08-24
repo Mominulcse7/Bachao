@@ -12,7 +12,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
     Activity activity;
 
-    CardView cvIncomingCall, cvCalling, cvMap, cvReportRape;
+    CardView cvIncomingCall, cvCalling, cvMap, cvReportRape, cvTellStory;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         cvCalling = findViewById(R.id.cvCalling);
         cvMap = findViewById(R.id.cvMap);
         cvReportRape = findViewById(R.id.cvReportRape);
+        cvTellStory = findViewById(R.id.cvTellStory);
 
         cvIncomingCall.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -45,10 +46,24 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        cvMap.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(activity, MapsActivity.class));
+            }
+        });
+
         cvReportRape.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(activity, ReportRapeActivity.class));
+            }
+        });
+
+        cvTellStory.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(activity, TellStoryActivity.class));
             }
         });
     }

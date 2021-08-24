@@ -3,24 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable-v24/bg_alert_15dp.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable-v24/bg_green_15dp.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable-v24/bg_orange_15dp.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable-v24/ic_icon_my_location_color.xml" value="0.1" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable-v24/ic_traffic_stop.xml" value="0.1" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable-v24/selector_my_location.xml" value="0.1" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/bg_black_1000dp.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/bg_et_15dp.xml" value="0.2169230769230769" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_active_green.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_active_red.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_alert.xml" value="0.2203125" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_assessment_report.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_audio.xml" value="0.2169230769230769" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_bookmark_safe.xml" value="0.2203125" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_brightness_active.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_call_end.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_call_outgoing.xml" value="0.2169230769230769" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_icon_my_location.xml" value="0.2203125" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_location.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_logo.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_mute.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_pause_call.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_phone_keyboard_buttons.xml" value="0.2169230769230769" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_play.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_play_location_green.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_play_location_red.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_red_inactive.xml" value="0.2203125" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_telephone_call_rec.xml" value="0.2169230769230769" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/ic_volume_speaker.xml" value="0.2169230769230769" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/drawable/selector_my_location.xml" value="0.2203125" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_calling.xml" value="0.1" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_incoming_call.xml" value="0.18055555555555555" />
         <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_main.xml" value="0.18055555555555555" />
-        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_report_rape.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_map.xml" value="0.15" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_report_rape.xml" value="0.1" />
+        <entry key="..\:/Android/MominulSelf/BachaoProject/Bachao/app/src/main/res/layout/activity_tell_story.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

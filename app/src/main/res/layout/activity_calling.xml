@@ -66,7 +66,7 @@
                 <ImageView
                     android:layout_width="20dp"
                     android:layout_height="20dp"
-                    android:src="@drawable/ic_brightness_active"
+                    android:src="@drawable/ic_active_green"
                     app:tint="#52CC57" />
 
                 <TextView

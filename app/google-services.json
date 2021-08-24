@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "1042903887695",
+    "project_id": "commontestingproject",
+    "storage_bucket": "commontestingproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042903887695:android:3d165bde21d63a6bdd9f3a",
+        "android_client_info": {
+          "package_name": "com.mominulcse7.bachao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042903887695-15j30qdtuc24bc2sm03qb4m90urc77i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FzN6r7KfgKLYmJdOwJ7FLt9OMSNbA0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042903887695-15j30qdtuc24bc2sm03qb4m90urc77i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042903887695:android:a2d37d11c067765edd9f3a",
+        "android_client_info": {
+          "package_name": "com.yousuf.guc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042903887695-fe16oi0h4inlh0qn9r4a09i8efu1qm1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yousuf.guc",
+            "certificate_hash": "ea08282961ac39ac1388b8c37a48f5d09394c003"
+          }
+        },
+        {
+          "client_id": "1042903887695-gghhnu75m1b0sonu3ep5athtro531hgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yousuf.guc",
+            "certificate_hash": "b5a95d2b42309f925e89cb54a95b4300d30a2e55"
+          }
+        },
+        {
+          "client_id": "1042903887695-h3g180bdgun9bbf6cv4v2b32b388g0fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yousuf.guc",
+            "certificate_hash": "7103bcca323cc75c33f2011fa6588c2e247848a8"
+          }
+        },
+        {
+          "client_id": "1042903887695-15j30qdtuc24bc2sm03qb4m90urc77i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FzN6r7KfgKLYmJdOwJ7FLt9OMSNbA0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042903887695-15j30qdtuc24bc2sm03qb4m90urc77i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
